@@ -1,0 +1,12 @@
+/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Domain/obj/Debug/net6.0/TaskApp.Domain.csproj.AssemblyReference.cache
+/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Domain/obj/Debug/net6.0/TaskApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Domain/obj/Debug/net6.0/TaskApp.Domain.AssemblyInfoInputs.cache
+/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Domain/obj/Debug/net6.0/TaskApp.Domain.AssemblyInfo.cs
+/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Domain/obj/Debug/net6.0/TaskApp.Domain.csproj.CoreCompileInputs.cache
+/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Domain/bin/Debug/net6.0/TaskApp.Domain.deps.json
+/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Domain/bin/Debug/net6.0/TaskApp.Domain.dll
+/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Domain/bin/Debug/net6.0/ref/TaskApp.Domain.dll
+/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Domain/bin/Debug/net6.0/TaskApp.Domain.pdb
+/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Domain/obj/Debug/net6.0/TaskApp.Domain.dll
+/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Domain/obj/Debug/net6.0/ref/TaskApp.Domain.dll
+/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Domain/obj/Debug/net6.0/TaskApp.Domain.pdb

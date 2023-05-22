@@ -1,0 +1,5 @@
+/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Persistence/obj/Debug/net6.0/TaskApp.Persistence.csproj.AssemblyReference.cache
+/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Persistence/obj/Debug/net6.0/TaskApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Persistence/obj/Debug/net6.0/TaskApp.Persistence.AssemblyInfoInputs.cache
+/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Persistence/obj/Debug/net6.0/TaskApp.Persistence.AssemblyInfo.cs
+/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Persistence/obj/Debug/net6.0/TaskApp.Persistence.csproj.CoreCompileInputs.cache
