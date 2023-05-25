@@ -1,7 +1,7 @@
 
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using Microsoft.EntityFrameworkCore;
-
+using TaskApp.Domain;
 
 namespace TaskApp.Persistence.Configurations.Entities
 {

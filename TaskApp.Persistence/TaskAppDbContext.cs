@@ -23,7 +23,7 @@ namespace TaskApp.Persistence
         public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
         {
 
-            foreach (var entry in ChangeTracker.Entries<BaseDomainEntity>())
+            foreach (var entry in ChangeTracker.Entries<BaseEntity>())
             {
                 entry.Entity.LastModifiedDate = DateTime.Now;
 

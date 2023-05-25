@@ -1,5 +1,6 @@
 using AutoMapper;
 using TaskApp.Application.Features.Task.CQRS.Commands;
+using TaskApp.Application.Features.Task.DTOs;
 
 namespace TaskApp.Application.Profiles
 {

@@ -4,6 +4,138 @@
     "/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Persistence/TaskApp.Persistence.csproj": {}
   },
   "projects": {
+    "/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Application/TaskApp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Application/TaskApp.Application.csproj",
+        "projectName": "TaskApp.Application",
+        "projectPath": "/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Application/TaskApp.Application.csproj",
+        "packagesPath": "/home/gizaw/.nuget/packages/",
+        "outputPath": "/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gizaw/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Domain/TaskApp.Domain.csproj": {
+                "projectPath": "/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Domain/TaskApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.116/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Domain/TaskApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Domain/TaskApp.Domain.csproj",
+        "projectName": "TaskApp.Domain",
+        "projectPath": "/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Domain/TaskApp.Domain.csproj",
+        "packagesPath": "/home/gizaw/.nuget/packages/",
+        "outputPath": "/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gizaw/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.116/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Persistence/TaskApp.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -25,7 +157,14 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Application/TaskApp.Application.csproj": {
+                "projectPath": "/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Application/TaskApp.Application.csproj"
+              },
+              "/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Domain/TaskApp.Domain.csproj": {
+                "projectPath": "/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Domain/TaskApp.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

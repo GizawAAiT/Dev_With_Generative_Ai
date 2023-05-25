@@ -1,7 +1,6 @@
 using FluentValidation;
 
-
-namespace BlogApp.Application.Features.Reviews.DTOs.Validators
+namespace TaskApp.Application.Features.Task.DTOs.Validators
 {
     public class ITasksDtoValidator : AbstractValidator<ITaskDto>
     {

@@ -237,19 +237,6 @@
         "runtime": {
           "bin/placeholder/TaskApp.Domain.dll": {}
         }
-      },
-      "TaskApp.Persistence/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "7.0.5"
-        },
-        "compile": {
-          "bin/placeholder/TaskApp.Persistence.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/TaskApp.Persistence.dll": {}
-        }
       }
     }
   },
@@ -730,11 +717,6 @@
       "type": "project",
       "path": "../TaskApp.Domain/TaskApp.Domain.csproj",
       "msbuildProject": "../TaskApp.Domain/TaskApp.Domain.csproj"
-    },
-    "TaskApp.Persistence/1.0.0": {
-      "type": "project",
-      "path": "../TaskApp.Persistence/TaskApp.Persistence.csproj",
-      "msbuildProject": "../TaskApp.Persistence/TaskApp.Persistence.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -743,8 +725,7 @@
       "FluentValidation >= 11.5.2",
       "MediatR >= 12.0.1",
       "Microsoft.EntityFrameworkCore >= 7.0.5",
-      "TaskApp.Domain >= 1.0.0",
-      "TaskApp.Persistence >= 1.0.0"
+      "TaskApp.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -774,9 +755,6 @@
           "projectReferences": {
             "/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Domain/TaskApp.Domain.csproj": {
               "projectPath": "/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Domain/TaskApp.Domain.csproj"
-            },
-            "/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Persistence/TaskApp.Persistence.csproj": {
-              "projectPath": "/home/gizaw/Documents/A2SV/eskalate/Gen Ai/Dev_With_Generative_Ai/TaskApp.Persistence/TaskApp.Persistence.csproj"
             }
           }
         }
